@@ -1,4 +1,6 @@
+---
 title: Rachel and Gary's wedding
+---
 
 ## Welcome to GitHub Pages
 
