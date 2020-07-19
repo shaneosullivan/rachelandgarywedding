@@ -2,36 +2,24 @@
 
 On August 14th, in the [Carlton Hotel](https://www.kinsalehotelandspa.ie/) and [Robin Rise](https://goo.gl/maps/pEDN199CXB1QTMfu9), Rachel and Gary will tie the knot, and celebrate with their friends and family
 
-### Markdown
+### Getting There
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The wedding will take place at two locations. The ceremony will take place at the Kinsale Hotel & Spa
+![<img src="{{ site.baseurl }}/assets/images/Map_Carlton.png" />](https://g.page/hotelkinsale?share) at 2pm. Parking is available at the venue.
 
-```markdown
-Syntax highlighted code block
+The party will take place at Robin Rise, Knocknahilan, the ancestral home of the O'Sullivan clan.
+![<img src="{{ site.baseurl }}/assets/images/Map_Carlton.png" />](https://goo.gl/maps/fT21DcQ49QYxPvdQ9)
 
-# Header 1
+The party starts at 4pm, but feel free to wander in earlier if it suits you, there will be people there to let you in. Parking will be a few metres away in a well signed area, please park there as there will not be sufficient parking at the house.
 
-## Header 2
+### Social Distancing
 
-### Header 3
+In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place. Please feel free to wear a mask if you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
-- Bulleted
-- List
+### Getting Away
 
-1. Numbered
-2. List
+A large taxi will be on call all night for anyone who needs it. Please check with the staff if you need the taxi, they'll be happy to contact him.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaneosullivan/rachelandgarywedding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gary & Rachel are reaching out to all guests via email or text, so please reply to them if you need anything.
