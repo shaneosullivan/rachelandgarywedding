@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Get ready for the wedding of Rachel O'Brien and Gary O'Sullivan!
 
-You can use the [editor on GitHub](https://github.com/shaneosullivan/rachelandgarywedding/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On August 14th, in the [Carlton Hotel](https://www.kinsalehotelandspa.ie/) and [Robin Rise](https://goo.gl/maps/pEDN199CXB1QTMfu9), Rachel and Gary will tie the knot, and celebrate with their friends and family
 
 ### Markdown
 
