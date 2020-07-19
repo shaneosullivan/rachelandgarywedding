@@ -1,5 +1,5 @@
 ---
-title: Rachel and Gary's wedding
+title: "Rachel and Gary's wedding..."
 ---
 
 ## Welcome to GitHub Pages
