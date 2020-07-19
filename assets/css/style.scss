@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-image: url("{{ site.baseurl }}/assets/images/hero.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
