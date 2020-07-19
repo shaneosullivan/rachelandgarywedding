@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Rachel and Gary's Wedding
 description: August 14th 2020 in Kinsale, Co. Cork
+plugins:
+  - jekyll-target-blank
