@@ -8,10 +8,10 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 ### Getting There
 
-The wedding will take place at two locations. The ceremony will take place at the Kinsale Hotel & Spa at 2pm. Parking is available at the venue.
+The wedding will take place at two locations. The ceremony will take place at the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) at 2pm. Parking is available at the venue.
 [<img src="{{ site.baseurl }}/assets/images/Map_Carlton.png" />](https://g.page/hotelkinsale?share)
 
-The party will take place at Robin Rise, Knocknahilan, the ancestral home of the O'Sullivan clan.
+The party will take place at [Robin Rise, Knocknahilan](https://goo.gl/maps/pEDN199CXB1QTMfu9), the ancestral home of the O'Sullivan clan.
 [<img src="{{ site.baseurl }}/assets/images/Map_RobinRise.png" />](https://goo.gl/maps/fT21DcQ49QYxPvdQ9)
 
 The party starts at 4pm, but feel free to wander in earlier if it suits you, there will be people there to let you in. Parking will be a few metres away in a well signed area, please park there as there will not be sufficient parking at the house.
