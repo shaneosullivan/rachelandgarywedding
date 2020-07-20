@@ -6,7 +6,7 @@ title: Rachel & Gary's Wedding
 
 On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) and [Robin Rise](https://goo.gl/maps/pEDN199CXB1QTMfu9), Rachel and Gary will tie the knot, and celebrate with their friends and family.
 
-[Add to Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Rachel%20%26%20Gary's%20Wedding&dates=20200814T140000/20200815T020000&details=We're%20looking%20forward%20to%20having%20you%20celebrate%20our%20special%20day%20with%20us!&location=https%3A%2F%2Fwww.kinsalehotelandspa.ie%2F)
+[Add to Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Rachel%20%26%20Gary's%20Wedding&dates=20200814T140000/20200815T020000&details=We're%20looking%20forward%20to%20having%20your%20celebrate%20our%20special%20day%20with%20us!%20Please%20go%20to%20rachelandgary.com%20for%20up%20to%20date%20details%20on%20attending%20the%20wedding&location=https%3A%2F%2Fwww.kinsalehotelandspa.ie%2F)
 
 ### Getting There
 
