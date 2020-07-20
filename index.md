@@ -4,7 +4,9 @@ title: Rachel & Gary's Wedding
 
 ## Get ready for the wedding of Rachel O'Brien and Gary O'Sullivan!
 
-On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) and [Robin Rise](https://goo.gl/maps/pEDN199CXB1QTMfu9), Rachel and Gary will tie the knot, and celebrate with their friends and family
+On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) and [Robin Rise](https://goo.gl/maps/pEDN199CXB1QTMfu9), Rachel and Gary will tie the knot, and celebrate with their friends and family.
+
+[Add to Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Rachel%20%26%20Gary's%20Wedding&dates=20200814T140000Z/20200815T020000Z&details=We're%20looking%20forward%20to%20having%20you%20celebrate%20our%20special%20day%20with%20us!&location=https%3A%2F%2Fwww.kinsalehotelandspa.ie%2F)
 
 ### Getting There
 
