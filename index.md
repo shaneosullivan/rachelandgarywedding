@@ -39,7 +39,7 @@ For anyone who can't make it to the ceremony, we'll be streaming it live on the 
 
 ### Social Distancing
 
-In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with the all gatherings taking place outdoors. Please feel free to wear a mask if you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
+In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. Please feel free to wear a mask if you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
 ### Contact
 
