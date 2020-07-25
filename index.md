@@ -21,6 +21,10 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
 
+### What Should I Wear?
+
+Clothes are preferable, given the unpredictability of Irish weather. We'll all be wearing normal wedding attire. It would be a good idea for guests to bring a warm top/jacket to Robin Rise in the event that it gets cold later in the evening, but we hope to have plenty of outdoor heating to avoid this necessity.
+
 ### Getting There
 
 The wedding will take place at two locations. The ceremony will take place at the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) at 2pm. Parking is available at the venue.
