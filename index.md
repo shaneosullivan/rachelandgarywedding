@@ -11,7 +11,7 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 ### What's Happening on the Day?
 
 - Arrive to [Kinsale Hotel & Spa](https://g.page/hotelkinsale?share) by 1.30pm
-- Ceremony begins at 2pm. It will take place outside if weather permits.
+- Ceremony begins at 2pm. It will take place outside if weather permits. All those standing say 'yes'.
 - The ceremony will be followed by a short drinks reception at the hotel
 - The party moves to [Robin Rise](https://goo.gl/maps/fT21DcQ49QYxPvdQ9) at 4pm, where there will be a drinks reception, food and full bar. The mobile bar company on site accept card or cash.
 - A DJ will perform later in the evening, and a taxi will be on call for the night to take you to wherever you are going around Kinsale.
@@ -35,12 +35,12 @@ We'll probably go for a late lunch in Kinsale and you'll all be welcome to join 
 
 ### Watching the Ceremony
 
-For anyone who can't make it to the ceremony, we'll be streaming it live on the interwebs. Further details will appear here closer to the time.
+For anyone who can't make it to the ceremony, we'll be streaming it live on the World Wide Web. Further details will appear here closer to the time.
 
 ### Social Distancing
 
-In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. We have marquees and a large open shed in use at Robin Rise, so even if it rains we can still be outdoors and enjoying ourselves. There will be numerous stations for hand washing and sanitizing. Please feel free to wear a mask, kilt or anything else you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
+In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. We have marquees and a large open shed in use at Robin Rise, so even if it rains we can still be outdoors and enjoying ourselves. There will be numerous stations for hand washing and sanitising. Please feel free to wear a mask, kilt or anything else you feel is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
 ### Contact
 
-Gary & Rachel are contacting to all guests via email or text, so please reply to them if you need anything. The email address is organisedweddingfun@gmail.com
+Gary & Rachel are contacting all guests via email or text, so please reply to them if you need anything. The email address is [organisedweddingfun@gmail.com](mailto:organisedweddingfun@gmail.com). Updates on what's happening will appear here on the website, so please check here if you have any questions about recent changes.
