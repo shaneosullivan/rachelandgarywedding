@@ -15,11 +15,11 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 - The ceremony will be followed by a short drinks reception at the hotel
 - The party moves to [Robin Rise](https://goo.gl/maps/fT21DcQ49QYxPvdQ9) at 4pm, where there will be a drinks reception, food and full bar. The mobile bar company on site accept card or cash.
 - A DJ will perform later in the evening, and a taxi will be on call for the night to take you to wherever you are going around Kinsale.
-- There will be staff on site to help you with anything you need, including organizing taxis.
+- There will be staff on site to help you with anything you need, including organising taxis.
 
 ### What About Parking?
 
-In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be a few metres away on the same side of the road in a well signed area, with thanks to John Barry for the loan of the field. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
+In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
 
 ### Getting There
 
@@ -28,8 +28,6 @@ The wedding will take place at two locations. The ceremony will take place at th
 
 The party will take place at [Robin Rise, Knocknahilan](https://goo.gl/maps/pEDN199CXB1QTMfu9), the ancestral home of the O'Sullivan clan.
 [<img src="{{ site.baseurl }}/assets/images/Map_RobinRise.png" />](https://goo.gl/maps/fT21DcQ49QYxPvdQ9)
-
-The party starts at 4pm, but feel free to wander in earlier if it suits you, there will be people there to let you in. Parking will be a few metres away in a well signed area, please park there as there will not be sufficient parking at the house.
 
 ### What's Happening The Day After?
 
