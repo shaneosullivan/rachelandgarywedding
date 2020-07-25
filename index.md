@@ -8,6 +8,19 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 [Add to Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Rachel%20%26%20Gary's%20Wedding&dates=20200814T140000/20200815T020000&details=We're%20looking%20forward%20to%20having%20your%20celebrate%20our%20special%20day%20with%20us!%20Please%20go%20to%20rachelandgary.com%20for%20up%20to%20date%20details%20on%20attending%20the%20wedding&location=https%3A%2F%2Fwww.kinsalehotelandspa.ie%2F)
 
+### What's Happening on the Day?
+
+- Arrive to [Kinsale Hotel & Spa](https://g.page/hotelkinsale?share) by 1.30pm
+- Ceremony begins at 2pm. It will take place outside if weather permits.
+- The ceremony will be followed by a short drinks reception at the hotel
+- The party moves to [Robin Rise](https://goo.gl/maps/fT21DcQ49QYxPvdQ9) at 4pm, where there will be a drinks reception, food and full bar. The mobile bar company on site accept card or cash.
+- A DJ will perform later in the evening, and a taxi will be on call for the night to take you to wherever you are going around Kinsale.
+- There will be staff on site to help you with anything you need, including organizing taxis.
+
+### What About Parking?
+
+In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be a few metres away on the same side of the road in a well signed area, with thanks to John Barry for the loan of the field. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
+
 ### Getting There
 
 The wedding will take place at two locations. The ceremony will take place at the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/) at 2pm. Parking is available at the venue.
@@ -18,13 +31,17 @@ The party will take place at [Robin Rise, Knocknahilan](https://goo.gl/maps/pEDN
 
 The party starts at 4pm, but feel free to wander in earlier if it suits you, there will be people there to let you in. Parking will be a few metres away in a well signed area, please park there as there will not be sufficient parking at the house.
 
+### What's Happening The Day After?
+
+We'll probably go for a late lunch in Kinsale and you'll all be welcome to join us if you can. We will then resurrect the party at Robin Rise for Saturday evening and you're welcome to join us there from 6pm onwards.
+
+### Watching the Ceremony
+
+For anyone who can't make it to the ceremony, we'll be streaming it live on the interwebs. Further details will appear here closer to the time.
+
 ### Social Distancing
 
-In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place. Please feel free to wear a mask if you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
-
-### Getting Away
-
-A large taxi will be on call all night for anyone who needs it. Please check with the staff if you need the taxi, they'll be happy to contact him.
+In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with the all gatherings taking place outdoors. Please feel free to wear a mask if you feel it is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
 ### Contact
 
