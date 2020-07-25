@@ -43,4 +43,4 @@ In the current climate, we are all concerned with the potential spread of Covid-
 
 ### Contact
 
-Gary & Rachel are reaching out to all guests via email or text, so please reply to them if you need anything.
+Gary & Rachel are contacting to all guests via email or text, so please reply to them if you need anything. The email address is organisedweddingfun@gmail.com
