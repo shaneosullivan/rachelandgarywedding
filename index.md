@@ -19,7 +19,9 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 ### What About Parking?
 
-In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
+In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field. Coming from Kinsale, the entrance to the parking field is shortly after passing Noel Hurley's famous potato truck on your left side (see photo below) so slow down when you see the potato truck and the entrance is on your left after you go around that corner. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
+
+![Famous Potato Truck]({{ site.baseurl }}/assets/images/potato_truck.png)
 
 ### What Should I Wear?
 
@@ -33,13 +35,19 @@ The wedding will take place at two locations. The ceremony will take place at th
 The party will take place at [Robin Rise, Knocknahilan](https://goo.gl/maps/pEDN199CXB1QTMfu9), the ancestral home of the O'Sullivan clan.
 [<img src="{{ site.baseurl }}/assets/images/Map_RobinRise.png" />](https://goo.gl/maps/fT21DcQ49QYxPvdQ9)
 
+### Getting Away
+
+We have organised a taxi to do shuttle runs from the house to Kinsale and surrounding areas that should cover getting most of you home to your beds. This taxi will run from 1am to 4am and will be free for you.
+
 ### What's Happening The Day After?
 
 We'll probably go for a late lunch in Kinsale and you'll all be welcome to join us if you can. We will then resurrect the party at Robin Rise for Saturday evening and you're welcome to join us there from 6pm onwards.
 
 ### Watching the Ceremony
 
-For anyone who can't make it to the ceremony, we'll be streaming it live on the World Wide Web. Further details will appear here closer to the time.
+For anyone who can't make it to the ceremony, we'll be streaming it live on the World Wide Web. If the Infant of Prague does not do his job and it rains on the day we will be limited to having only family at the ceremony as it would then be moved indoors. We will text all attendees as soon as we know if we have to move indoors.
+
+Further details will appear here closer to the time.
 
 ### Social Distancing
 
@@ -48,3 +56,7 @@ In the current climate, we are all concerned with the potential spread of Covid-
 ### Contact
 
 Gary & Rachel are contacting all guests via email or text, so please reply to them if you need anything. The email address is [organisedweddingfun@gmail.com](mailto:organisedweddingfun@gmail.com). Updates on what's happening will appear here on the website, so please check here if you have any questions about recent changes.
+
+Please note that there is very poor mobile phone reception at Robin Rise. If you need to be contacted (for example, by babysitters) by phone while at the party you can be contacted on 021 4772289. Please give this number to people who may need to contact you. The phone will be monitored throughout the day.
+
+You can also use the house phone to call out at any stage. Due to the amount of people attending and the need for Wi-Fi to be used for wedding services we will ask you to only connect to the Wi-Fi when you want to check your messages and then please disconnect so that everybody will be able to use it when needed.
