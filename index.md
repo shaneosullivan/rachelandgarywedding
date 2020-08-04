@@ -12,7 +12,6 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 - Arrive to [Kinsale Hotel & Spa](https://g.page/hotelkinsale?share) by 1.30pm
 - Ceremony begins at 2pm. It will take place outside if weather permits.
-- The ceremony will be followed by a short drinks reception at the hotel
 - The party moves to [Robin Rise](https://goo.gl/maps/fT21DcQ49QYxPvdQ9) at 4pm, where there will be a drinks reception, food and full bar. The mobile bar company on site accept card or cash.
 - A DJ will perform later in the evening, and a taxi will be on call for the night to take you to wherever you are going around Kinsale.
 - There will be staff on site to help you with anything you need, including organising taxis.
