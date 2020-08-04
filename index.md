@@ -19,7 +19,9 @@ On August 14th, in the [Kinsale Hotel & Spa](https://www.kinsalehotelandspa.ie/)
 
 ### What About Parking?
 
-In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field. Coming from Kinsale, the entrance to the parking field is shortly after passing Noel Hurley's famous potato truck on your left side (see photo below) so slow down when you see the potato truck and the entrance is on your left after you go around that corner. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
+In classic Irish style, if you've arrived at Robin Rise, you've gone too far, turn back! Parking will be about 100 metres away on the same side of the road in the direction of Kinsale, with thanks to John Barry for the loan of the field.
+
+Coming from Kinsale, the entrance to the parking field is shortly after passing Noel Hurley's famous potato truck on your left side (see photo below) so slow down when you see the potato truck and the entrance is on your left after you go around that corner. Of course if you would like to drop people off at the house you can, but there will be no parking at the house itself.
 
 ![Famous Potato Truck](assets/images/potato_truck.jpg)
 
