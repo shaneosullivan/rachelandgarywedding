@@ -42,7 +42,7 @@ We have organised a taxi to do shuttle runs from the house to Kinsale and surrou
 
 ### What's Happening The Day After?
 
-We'll probably go for a late lunch in Kinsale and you'll all be welcome to join us if you can. We will then resurrect the party at Robin Rise for Saturday evening and you're welcome to join us there from 6pm onwards.
+We’ll go for a late lunch at 3pm in Hamlets and you’re all welcome to join us if you can. We will then resurrect the party at Robin Rise for Saturday evening and you’re welcome to join us there from 6pm onwards.
 
 ### Watching the Ceremony
 
