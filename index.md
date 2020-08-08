@@ -54,6 +54,16 @@ Further details will appear here closer to the time.
 
 In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. We have marquees and a large open shed in use at Robin Rise, so even if it rains we can still be outdoors and enjoying ourselves. There will be numerous stations for hand washing and sanitising. Please feel free to wear a mask, kilt or anything else you feel is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
+### Watching it Live
+
+For anyone who can't make it on the day and would like to watch it live,
+we'll be streaming live here.
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+  <div class="fb-post" 
+      data-href="https://www.facebook.com/20531316728/posts/10154009990506729/"
+      data-width="500"></div>
+
 ### Contact
 
 Gary & Rachel are contacting all guests via email or text, so please reply to them if you need anything. The email address is [organisedweddingfun@gmail.com](mailto:organisedweddingfun@gmail.com). Updates on what's happening will appear here on the website, so please check here if you have any questions about recent changes.
