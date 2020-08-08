@@ -50,7 +50,7 @@ For anyone who can't make it to the ceremony, we'll be streaming it live on the 
 
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
   <div class="fb-post" 
-      data-href="https://www.facebook.com/20531316728/posts/10154009990506729/"
+      data-href="https://www.facebook.com/shaneos/posts/10158791712220972/"
       data-width="500"></div>
 
 ### Social Distancing
