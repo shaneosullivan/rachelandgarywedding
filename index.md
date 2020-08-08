@@ -48,21 +48,14 @@ We’ll go for a late lunch at 3pm in Hamlets and you’re all welcome to join u
 
 For anyone who can't make it to the ceremony, we'll be streaming it live on the World Wide Web. If the Infant of Prague does not do his job and it rains on the day we will be limited to having only family at the ceremony as it would then be moved indoors. We will text all attendees as soon as we know if we have to move indoors.
 
-Further details will appear here closer to the time.
-
-### Social Distancing
-
-In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. We have marquees and a large open shed in use at Robin Rise, so even if it rains we can still be outdoors and enjoying ourselves. There will be numerous stations for hand washing and sanitising. Please feel free to wear a mask, kilt or anything else you feel is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
-
-### Watching it Live
-
-For anyone who can't make it on the day and would like to watch it live,
-we'll be streaming live here.
-
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
   <div class="fb-post" 
       data-href="https://www.facebook.com/20531316728/posts/10154009990506729/"
       data-width="500"></div>
+
+### Social Distancing
+
+In the current climate, we are all concerned with the potential spread of Covid-19. As such, at both the hotel and the party there will be social distancing measures put in place, with all gatherings taking place outdoors. We have marquees and a large open shed in use at Robin Rise, so even if it rains we can still be outdoors and enjoying ourselves. There will be numerous stations for hand washing and sanitising. Please feel free to wear a mask, kilt or anything else you feel is appropriate. All activities will take place outdoors with plenty of space to maintain a friendly distance while still celebrating together.
 
 ### Contact
 
