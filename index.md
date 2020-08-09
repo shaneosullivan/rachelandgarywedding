@@ -49,9 +49,9 @@ We’ll go for a late lunch at 3pm in Hamlets and you’re all welcome to join u
 For anyone who can't make it to the ceremony, we'll be streaming it live on the World Wide Web. If the Infant of Prague does not do his job and it rains on the day we will be limited to having only family at the ceremony as it would then be moved indoors. We will text all attendees as soon as we know if we have to move indoors.
 
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-  <div class="fb-post" 
-      data-href="https://www.facebook.com/shaneos/posts/10158791712220972/"
-      data-width="500"></div>
+<div class="fb-post" 
+    data-href="https://www.facebook.com/shaneos/posts/10158791712220972/"
+    data-width="500" data-show-text="false"></div>
 
 ### Social Distancing
 
