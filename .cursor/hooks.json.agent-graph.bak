@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "sessionEnd": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "beforeSubmitPrompt": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "preToolUse": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "postToolUse": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "postToolUseFailure": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "subagentStart": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "subagentStop": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "beforeShellExecution": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "afterShellExecution": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "beforeMCPExecution": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "afterMCPExecution": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "beforeReadFile": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "afterFileEdit": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "preCompact": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "stop": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "afterAgentResponse": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}],
+    "afterAgentThought": [{"command": "sh scripts/cursor-probe.sh hook", "timeout": 10}]
+  }
+}
