@@ -3,19 +3,11 @@
   "hooks": {
     "sessionStart": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5
       }
     ],
     "sessionEnd": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
       {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5
@@ -23,19 +15,29 @@
     ],
     "beforeSubmitPrompt": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
-        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; [ -x \"$HOME/.local/bin/agent-graph\" ] || curl -fsSL https://agentgraph.chofter.com/install.sh | AGENT_GRAPH_INSTALL_DIR=\"$HOME/.local/bin\" sh >/dev/null 2>&1; P=\"$HOME/.agent-graph/cursor-cloud-share.pid\"; if [ -x \"$HOME/.local/bin/agent-graph\" ] && ! kill -0 \"$(cat \"$P\" 2>/dev/null)\" 2>/dev/null; then mkdir -p \"$HOME/.agent-graph\"; (if command -v setsid >/dev/null; then exec setsid \"$HOME/.local/bin/agent-graph\" watch-remote --background; else exec \"$HOME/.local/bin/agent-graph\" watch-remote --background; fi) </dev/null >>\"$HOME/.agent-graph/watch-remote.log\" 2>&1 & echo $! >\"$P\"; fi; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
+        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; mkdir -p \"$HOME/.agent-graph\"; [ -x \"$HOME/.local/bin/agent-graph\" ] || curl -fsSL https:/''/agentgraph.chofter.com/install.sh | AGENT_GRAPH_INSTALL_DIR=\"$HOME/.local/bin\" sh >>\"$HOME/.agent-graph/install.log\" 2>&1; P=\"$HOME/.agent-graph/cursor-cloud-share.pid\"; if [ -x \"$HOME/.local/bin/agent-graph\" ] && ! kill -0 \"$(cat \"$P\" 2>/dev/null)\" 2>/dev/null; then (if command -v setsid >/dev/null; then exec setsid \"$HOME/.local/bin/agent-graph\" watch-remote --background; else exec \"$HOME/.local/bin/agent-graph\" watch-remote --background; fi) </dev/null >>\"$HOME/.agent-graph/watch-remote.log\" 2>&1 & echo $! >\"$P\"; fi; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 180
       }
     ],
-    "preToolUse": [
+    "stop": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
+        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
+        "timeout": 5
+      }
+    ],
+    "subagentStart": [
+      {
+        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
+        "timeout": 5
+      }
+    ],
+    "subagentStop": [
+      {
+        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
+        "timeout": 5
+      }
+    ],
+    "preToolUse": [
       {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5,
@@ -44,10 +46,6 @@
     ],
     "postToolUse": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5,
         "matcher": "^(Task|Shell|TodoWrite|todo_write|UpdateTodos|AskQuestion|CreatePlan)$"
@@ -55,40 +53,12 @@
     ],
     "postToolUseFailure": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5,
         "matcher": "^(Task|Shell)$"
       }
     ],
-    "subagentStart": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
-        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
-        "timeout": 5
-      }
-    ],
-    "subagentStop": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
-        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
-        "timeout": 5
-      }
-    ],
     "beforeShellExecution": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
       {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5
@@ -96,68 +66,14 @@
     ],
     "afterShellExecution": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
-        "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
-        "timeout": 5
-      }
-    ],
-    "beforeMCPExecution": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      }
-    ],
-    "afterMCPExecution": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      }
-    ],
-    "beforeReadFile": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      }
-    ],
-    "afterFileEdit": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      }
-    ],
-    "preCompact": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      }
-    ],
-    "stop": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5
       }
     ],
     "afterAgentResponse": [
       {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
-      },
-      {
         "command": "[ -n \"${CLOUD_AGENT_ALL_SECRET_NAMES+x}\" ] || { echo '{}'; exit 0; }; if [ -x \"$HOME/.local/bin/agent-graph\" ]; then \"$HOME/.local/bin/agent-graph\" emit --provider cursor; else echo '{}'; fi",
         "timeout": 5
-      }
-    ],
-    "afterAgentThought": [
-      {
-        "command": "sh scripts/cursor-probe.sh hook",
-        "timeout": 10
       }
     ]
   }
